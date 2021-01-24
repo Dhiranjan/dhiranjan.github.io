@@ -1,18 +1,19 @@
 # dhiranjan.github.io
 ### Data Analytics/Data Science Portfolio
 
-<details open>
+<details>
 <summary>Data Analytics</summary>
-  [Analysis of Movie Rating by Fandango Vs other site.](https://github.com/Dhiranjan/movierating2021)
+  <a href="https://github.com/Dhiranjan/movierating2021">Project 1: Analysis of Movie Rating by Fandango Vs other site: Project Overview</a>
+  [Project 1: Analysis of Movie Rating by Fandango Vs other site: Project Overview]()
   
 </details>
 <br>
 
-<details open>
+<details>
 <summary>Data Science</summary>
 </details>
 <br>
 
-<details open>
+<details>
 <summary>Web Developement</summary>
 </details>
