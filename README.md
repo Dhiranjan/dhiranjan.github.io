@@ -8,23 +8,23 @@
 <details>
 <summary>Data Analytics</summary>
   <!---Project 1-->
-  <details open>
+  <details>
           <summary>
             <a href="https://github.com/Dhiranjan/movierating2021">Project 1: Analysis of Movie Rating of Fandango Vs other site: Project Overview </a>
           </summary>
   </details>
   
   <!---Project 2-->
-  <details open>
+  <details>
           <summary>
             <a href="https://github.com/Dhiranjan/google_playstore_analysis">Project 2: Analysis of Google Playstore: Project Overview </a>
           </summary>
   </details>
   
   <!---Project 3-->
-  <details open>
+  <details>
           <summary>
-            <a href="https://github.com/Dhiranjan/LaptopManufacturerAnalysis/blob/master/laptops.ipynb">Project 3: Analysis of Laptop Manufacturer </a>
+            <a href="https://github.com/Dhiranjan/LaptopManufacturerAnalysis/blob/master/laptops.ipynb">Project 3: Analysis of Laptop Manufacturer: Project Overview             </a>
           </summary>
   </details>
   
@@ -36,7 +36,7 @@
 
 <!--- Machine Learning -->
 <details>
-<summary>Data Science</summary>
+<summary>Machine Learning</summary>
 </details>
 <br>
 
