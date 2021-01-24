@@ -11,7 +11,7 @@
   <ul>
     <li><a href="https://github.com/Dhiranjan/movierating2021">Project 1: Analysis of Movie Rating of Fandango Vs other site: Project Overview </a></li>
     <li><a href="https://github.com/Dhiranjan/google_playstore_analysis">Project 2: Analysis of Google Playstore: Project Overview </a></li>
-    <li><a href="https://github.com/Dhiranjan/LaptopManufacturerAnalysis/blob/master/laptops.ipynb">Project 3: Analysis of Laptop Manufacturer: Project Overview     
+    <li><a href="https://github.com/Dhiranjan/LaptopManufacturerAnalysis/blob/master/laptops.ipynb">Project 3: Analysis of Laptop Manufacturer: Project Overview</a>     </li>     
   </ul>
 </details>
 <br>
