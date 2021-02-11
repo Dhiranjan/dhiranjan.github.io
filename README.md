@@ -9,7 +9,7 @@
 <summary>Data Analytics</summary>
   <!---Project-->
   <ul>
-    <li><a href="https://github.com/Dhiranjan/movierating2021/00-Capstone-Project_01.ipynb">Project 1: Analysis of Movie Rating of Fandango Vs other site: Project Overview </a>
+    <li><a href="https://github.com/Dhiranjan/movierating2021/blob/master/00-Capstone-Project_01.ipynb">Project 1: Analysis of Movie Rating of Fandango Vs other site: Project Overview </a>
       <p> If you are planning on going out to see a movie, how well can you trust online reviews and ratings? Especially if the same company showing the rating             also makes money by selling movie tickets. Do they have a bias towards rating movies higher than they should be rated?</P>
     </li>
           
