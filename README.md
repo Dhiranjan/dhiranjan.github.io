@@ -1,4 +1,4 @@
-# dhiranjan.github.io
+# Dhiranjan Gahatraj
 ### Data Analytics/Machine Learning Portfolio
 <br>
 <br>
@@ -16,7 +16,7 @@
    <li><a href="https://github.com/Dhiranjan/google_playstore_analysis/blob/master/Google%20Playstore%20%20Analysis.ipynb">Project 2: Analysis of Google Playstore: Project Overview </a>
   <p>This project is to find mobile app profiles that are profitable for Google Play markets. This analysis provide the insight to developers to make data-driven decisions with respect to the kind of apps they build and what kinds of apps are likely to attract more users.</p>
 </li>
-   <li><a href="https://github.com/Dhiranjan/LaptopManufacturerAnalysis/blob/master/laptops.ipynb">Project 3: Analysis of Laptop Manufacturer: Project Overview</a>     </li>     
+       
   </ul>
 </details>
 <br>
